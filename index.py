@@ -227,3 +227,4 @@ if __name__ == "__main__":
     user_config_path = os.path.join(os.path.dirname(__file__), 'conf', 'user.json')
     push_config_path = os.path.join(os.path.dirname(__file__), 'conf', 'push.json')
     main_handler(user_config_path=user_config_path, push_config_path=push_config_path)
+    
